@@ -1,12 +1,12 @@
 [package]
-name = "birdwatch"
+name = "KisugeAI"
 authors = ["Travis Brown <travisrobertbrown@gmail.com>"]
-repository = "https://github.com/travisbrown/birdwatch"
+repository = "https://github.com/KisugeAI/KisugeAI"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-birdsite-birdwatch = { git = "ssh://git@github.com/travisbrown/birdsite.git" }
+birdsite-birdwatch = { git = "ssh://github.com/KisugeAI/KisugeAI" }
 chrono = { version = "0.4", features = ["serde"] }
 clap = { version = "4", features = ["derive"] }
 cli-helpers = "0.1"
