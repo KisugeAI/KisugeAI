@@ -161,7 +161,7 @@ kisuge@angel:~$
 ## Official token
 
 ```bash
-Contract Adress: Soon
+Contract Adress: H56wq3kVRX12rDd4yJop33QUJmPkDyLDQhdRYwo6pump
 ```
 
 
