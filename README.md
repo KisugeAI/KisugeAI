@@ -77,7 +77,7 @@ Target: 175.90
 Stop: 162.10
 Confidence: 86.7%
 Risk: controlled
-
+```
 ---
 
 ## Core Logic
@@ -123,6 +123,7 @@ signals/
 
 ## CLI
 
+```bash
 driftrx ask "<query>"
 driftrx scan
 driftrx execute
@@ -130,7 +131,7 @@ driftrx positions
 driftrx pnl
 driftrx risk
 driftrx status
-
+```
 ---
 
 ## Agent Modules
