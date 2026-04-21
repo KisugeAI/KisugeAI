@@ -1,6 +1,52 @@
 # DriftrX402  
-### autonomous trading intelligence · x402 execution layer · market-native cognition  
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:6c2cff&height=200&section=header&text=DriftrX402&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <b>autonomous trading intelligence · x402 execution layer · market-native cognition</b>
+</p>
+
+<p align="center">
+  <a href="http://driftrx402.fun/">
+    <img src="https://img.shields.io/badge/Portal-Live-6c2cff?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://x.com/DriftrX402">
+    <img src="https://img.shields.io/badge/X-DriftrX402-black?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Status-Active-00ffcc?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Execution-Low_Latency-ff00ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-Autonomous-blue?style=for-the-badge"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=6C2CFF&center=true&vCenter=true&width=600&lines=Scanning+markets...;Detecting+edge...;Executing+precision...;Adapting+in+real-time...;DriftrX402+active" />
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DriftrX402&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DriftrX402&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <b>DRIFTRX402</b><br>
+  trade intelligent · execute precisely · drift limitlessly
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c2cff,100:0f0f0f&height=120&section=footer"/>
+</p>
 ---
 
 ## Overview  
@@ -216,61 +262,3 @@ MIT
 ```
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:6c2cff&height=200&section=header&text=DriftrX402&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<p align="center">
-  <b>autonomous trading intelligence · x402 execution layer · market-native cognition</b>
-</p>
-
-<p align="center">
-  <a href="http://driftrx402.fun/">
-    <img src="https://img.shields.io/badge/Portal-Live-6c2cff?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://x.com/DriftrX402">
-    <img src="https://img.shields.io/badge/X-DriftrX402-black?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Status-Active-00ffcc?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Execution-Low_Latency-ff00ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-Autonomous-blue?style=for-the-badge"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=6C2CFF&center=true&vCenter=true&width=600&lines=Scanning+markets...;Detecting+edge...;Executing+precision...;Adapting+in+real-time...;DriftrX402+active" />
-</p>
-
----
-
-## ⚡ System Snapshot
-
-```
-STATE        : ACTIVE
-MARKET       : STREAMING
-EXECUTION    : OPTIMAL
-RISK         : CONTROLLED
-ALIGNMENT    : STABLE
-```
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DriftrX402&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DriftrX402&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <b>DRIFTRX402</b><br>
-  trade intelligent · execute precisely · drift limitlessly
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c2cff,100:0f0f0f&height=120&section=footer"/>
-</p>
